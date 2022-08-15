@@ -1,4 +1,4 @@
-# SDJ-Book-Didcussion
+# SDJ-Book-Discussion
 Super Duper Juniors' Book Discussion
 
 # 언제
